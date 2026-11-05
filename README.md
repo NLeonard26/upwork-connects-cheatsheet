@@ -24,8 +24,8 @@ Source: [Understanding and using Connects](https://support.upwork.com/hc/en-us/a
 - Base Connects are charged **when you submit**. The boost is charged **on the first eligible client interaction or at auction end**, whichever comes first.
 - Eligible interactions: client **opens, shortlists, messages, sends an offer, archives or declines**. So a decline still costs you the boost.
 - Some interactions, such as shortlisting or saving, **may not be visible to you** and can still trigger the charge.
-- Still in the top four when the auction ends? You pay, even if the client never looked.
-- Knocked out of the top four before any interaction? You don't pay the boost. The base Connects stay spent.
+- If you're still in the top four when the auction ends, you pay, even if the client never looked.
+- If you're knocked out of the top four before any interaction, you don't pay the boost. The base Connects stay spent.
 - The auction closes after **7 days or the first hire**.
 - Winners pay **their own bid**.
 
@@ -55,7 +55,7 @@ Score each 0 (no), 1 (unsure), 2 (yes). Checks 1–5 are the ones Upwork's Help 
 
 ---
 
-### Want the full version?
+### The full version
 
 This page is free and complete on its own. I also wrote a 15-page PDF with the full boost rules, every free-Connects source Upwork lists, a proposal structure, a weekly budget method and a tracker spreadsheet that works out your cost per interview: **[The Connects Budget Playbook](https://rangkalab.gumroad.com/l/connects-playbook)**.
 
