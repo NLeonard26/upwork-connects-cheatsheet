@@ -20,7 +20,7 @@ Connects cost **$0.15 each**. They come back in two cases only:
 
 Refunds come back as Connects for reuse. You don't get the cash back.
 
-Every Connect **expires one year** after it was issued, with no email warning, and expired Connects can't be refunded. Bought Connects are generally non-refundable. You don't need Connects to reply to a client's invitation, accept a direct offer or work on an existing contract.
+Every Connect **expires one year** after it was issued, with no email warning, and expired Connects can't be refunded. Bought Connects are generally non-refundable. You don't need Connects to reply to a client's invitation, accept a direct offer or work on an existing contract. Some new freelancers have to buy Connects or join Freelancer Plus before they can send any proposal, including a reply to an invitation.
 
 Sources: [Connects charges, returns, refunds, and transaction history](https://support.upwork.com/hc/en-us/articles/57221525626643-Connects-charges-returns-refunds-and-transaction-history), [About Connects: costs, uses, balances, and expiration](https://support.upwork.com/hc/en-us/articles/211062898-About-Connects-costs-uses-balances-and-expiration)
 
@@ -46,7 +46,7 @@ A 20-Connect boost is $3.00. On a $300 contract it has to lift your win chance b
 
 ## 4. Pre-bid check
 
-Score each 0 (no), 1 (unsure), 2 (yes). Checks 1–5 are the ones Upwork's Help Center suggests. Check 6 and the thresholds are my own.
+Score each 0 (no), 1 (unsure), 2 (yes). Checks 1 and 2 follow Upwork's advice to spend Connects on work that closely matches your skills and availability. Checks 3 to 5 come from an Upwork tips list that's no longer on its public Help Center. Check 6 and the thresholds are my own.
 
 1. **Match:** can I show a past result close to this exact job?
 2. **Time:** can I write a proposal specific to this post today?
