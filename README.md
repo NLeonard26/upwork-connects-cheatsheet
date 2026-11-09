@@ -1,6 +1,6 @@
 # Upwork Connects cheat sheet (free)
 
-When Connects come back, when a boost is charged, and a six-question check to run before you spend any. The rules come from Upwork's Help Center, read on 4 November 2026. Upwork changes them without notice, so follow the links before a big spend.
+When Connects come back, when a boost is charged, and a six-question check to run before you spend any. The rules come from Upwork's Help Center, last checked on 9 November 2026. Upwork changes them without notice, so follow the links before a big spend. There's a longer write-up of the same rules on Medium: [Does Upwork refund Connects?](https://medium.com/@26leonard7/does-upwork-refund-connects-refund-and-boost-rules-2026-5e62f83bcc4f)
 
 Not affiliated with Upwork.
 
@@ -10,26 +10,28 @@ Connects cost **$0.15 each**. They come back in two cases only:
 
 | Refunded | Not refunded |
 |---|---|
-| Client cancels the project **before a contract is made** (not expired posts) | Client rejects your proposal |
-| Upwork **removes the post** for a Terms of Service violation | Client hires someone else |
+| Client cancels the job **before a contract is made** (not expired posts) | Client rejects or declines your proposal |
+| Upwork **removes the post** for a Terms of Service violation (a boost is returned too) | Client hires someone else |
+| | Client never views or answers it |
 | | Job **expires without a hire** |
 | | You **withdraw** the proposal |
 
 Refunds come back as Connects for reuse. You don't get the cash back.
 
-Source: [Understanding and using Connects](https://support.upwork.com/hc/en-us/articles/211062898-Understanding-and-using-Connects)
+Every Connect **expires one year** after it was issued, with no email warning, and expired Connects can't be refunded. Bought Connects are generally non-refundable. You don't need Connects to reply to a client's invitation, accept a direct offer or work on an existing contract.
+
+Sources: [Connects charges, returns, refunds, and transaction history](https://support.upwork.com/hc/en-us/articles/57221525626643-Connects-charges-returns-refunds-and-transaction-history), [About Connects: costs, uses, balances, and expiration](https://support.upwork.com/hc/en-us/articles/211062898-About-Connects-costs-uses-balances-and-expiration)
 
 ## 2. Boosted Proposals
 
-- Base Connects are charged **when you submit**. The boost is charged **on the first eligible client interaction or at auction end**, whichever comes first.
-- Eligible interactions: client **opens, shortlists, messages, sends an offer, archives or declines**. So a decline still costs you the boost.
-- Some interactions, such as shortlisting or saving, **may not be visible to you** and can still trigger the charge.
-- If you're still in the top four when the auction ends, you pay, even if the client never looked.
-- If you're knocked out of the top four before any interaction, you don't pay the boost. The base Connects stay spent.
-- The auction closes after **7 days or the first hire**.
-- Winners pay **their own bid**.
+- Base Connects are charged **when you submit**. The boost bid is **settled after the auction**, which closes after **7 days or the first hire**.
+- It's a top-four, first-price auction: if you pay, you pay **your own full bid**.
+- You pay if you're **in the top four when the auction closes** (even if the client never looked), or if the client has an eligible interaction **while your proposal is boosted**: opens, shortlists, messages, sends an offer, archives or declines. So a decline still costs you the boost.
+- Some interactions, such as shortlisting or saving, **may not be visible to you** and can still lead to a charge.
+- If you're knocked out of the top four before any interaction, the boost bid comes back. The base Connects stay spent.
+- Ad credits used on a boost aren't returned if you lose. A small number of jobs are random placebo auctions where boost Connects aren't taken.
 
-Sources: [How to boost your proposal](https://support.upwork.com/hc/en-us/articles/4406395531795-How-to-boost-your-proposal), [How will Connects refunds work?](https://support.upwork.com/hc/en-us/articles/40444940781459-How-will-Connects-refunds-work)
+Sources: [How to boost your proposal](https://support.upwork.com/hc/en-us/articles/4406395531795-How-to-boost-your-proposal), [Connects charges, returns, refunds, and transaction history](https://support.upwork.com/hc/en-us/articles/57221525626643-Connects-charges-returns-refunds-and-transaction-history)
 
 ## 3. Boost break-even (arithmetic, not a platform rule)
 
