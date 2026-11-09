@@ -1,5 +1,7 @@
 # Upwork Connects cheat sheet (free)
 
+![Diagram of Upwork Connects rules. Connects come back only if the client cancels before a contract is made or Upwork removes the post for breaking its Terms of Service. No refund if the job expires, you withdraw, or the client rejects you, hires someone else or never answers. Boost timeline: base Connects are charged at submit. You pay your full boost bid if the client interacts while you're boosted, or if you're in the top 4 when the auction ends (7 days or first hire).](images/connects-rules-cover.png)
+
 When Connects come back, when a boost is charged, and a six-question check to run before you spend any. The rules come from Upwork's Help Center, last checked on 9 November 2026. Upwork changes them without notice, so follow the links before a big spend. There's a longer write-up of the same rules on Medium: [Does Upwork refund Connects?](https://medium.com/@26leonard7/does-upwork-refund-connects-refund-and-boost-rules-2026-5e62f83bcc4f)
 
 Not affiliated with Upwork.
